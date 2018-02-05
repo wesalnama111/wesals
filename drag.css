@@ -1,0 +1,29 @@
+#container{
+        	width: 735px;
+        	
+        	margin:0 auto;
+            font-size: 75px!important;
+ }
+
+.drag { 
+    float: left;
+      width:222px;
+      height:222px;
+      padding:0px;
+     float: left;
+    
+    
+   
+        }
+        .box{
+            float: left;
+      width:222px;
+      height:222px;
+      padding:10px;
+     float: left;
+    
+    
+   
+
+
+        }
